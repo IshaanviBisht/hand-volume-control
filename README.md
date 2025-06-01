@@ -1,7 +1,7 @@
 # ✋ Hand Gesture Volume Control with OpenCV
 
 Control your Mac's volume using just your fingers!
-This Python project uses your webcam to track your **thumb and index finger**, and adjusts the volume based on how far apart they are. Super fun and surprisingly useful 😎🔊
+This Python project uses your webcam to track your **thumb and index finger**, and adjusts the volume based on how far apart they are.
 
 ---
 
@@ -31,7 +31,7 @@ Made it with the help of https://www.youtube.com/watch?v=9iEPzbG-xLE&list=PLMoSU
 
 ## 🛠️ Requirements
 
-Make sure you have Python 3 installed, then install the dependencies:
+Make sure you have Python 3 installed, then install the dependencies: (No need to install numpy because it already comes with OPENCV)
 
 ```bash
-pip install opencv-python mediapipe numpy
+pip install opencv-python mediapipe 
