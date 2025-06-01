@@ -29,6 +29,8 @@ A tiny line was edited to fit my project better!
 This project works only on macOS because it uses AppleScript (osascript) for volume control. 
 Made it with the help of https://www.youtube.com/watch?v=9iEPzbG-xLE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q 
 
+---
+
 ## 🛠️ Requirements
 
 Make sure you have Python 3 installed, then install the dependencies: (No need to install numpy because it already comes with OPENCV)
